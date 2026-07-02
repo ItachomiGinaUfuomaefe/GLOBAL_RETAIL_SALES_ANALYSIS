@@ -59,5 +59,5 @@ The company wants to understand:
 
 - <a href="https://github.com/ItachomiGinaUfuomaefe/GLOBAL_RETAIL_SALES_ANALYSIS/blob/main/Global%20Retail%20Sales%202015-2022%20DASHBOARD.xlsx">GLOBAL_RETAIL_SALES_ANALYSIS</a> 
 - https://github.com/ItachomiGinaUfuomaefe/GLOBAL_RETAIL_SALES_ANALYSIS/blob/main/Global%20Retail%20Sales%202015-2022.csv
-- https://github.com/ItachomiGinaUfuomaefe/GLOBAL_RETAIL_SALES_ANALYSIS/blob/main/Dashboard%20Global%20Retail%20Sales%20Dataset%20(2015%E2%80%932022).png
+- <a href="https://github.com/ItachomiGinaUfuomaefe/GLOBAL_RETAIL_SALES_ANALYSIS/blob/main/Dashboard%20Global%20Retail%20Sales%20Dataset%20(2015%E2%80%932022).png">Dashboard Global Retail Sales Dataset (2015–2022).png</a>
 
