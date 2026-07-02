@@ -57,7 +57,7 @@ The company wants to understand:
 
 ## Files Included
 
-- Global Retail Sales 2015-2022 Dashboard. Xlsx (INTERACTIVE DASHBOARD) 
-- Global Retail Sales 2015-2022.csv
+- Global Retail Sales 2015-2022 Dashboard. Xlsx (INTERACTIVE DASHBOARD 
+- https://github.com/ItachomiGinaUfuomaefe/GLOBAL_RETAIL_SALES_ANALYSIS/blob/main/Global%20Retail%20Sales%202015-2022.csv
 - Global Retail Sales 2015-2022 Dashboard.png
 
