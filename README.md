@@ -1,4 +1,4 @@
-##  Global Retail Sales  Analysis (INTERACTIVE DASHBOARD CREATION USING MICROSFT EXCEL )
+##  Global Retail Sales  Analysis (INTERACTIVE DASHBOARD CREATION USING MICROSOFT EXCEL )
 
 ## Project Overview
 This dashboard presents an analysis of global retail sales performance using key metrics such as Total Sales, Total Profit, Total Cost, Top Products, Regional Performance, Sales by Weekday, and Delivery Time. It provides interactive visualizations to help stakeholders monitor business performance and identify growth opportunities
