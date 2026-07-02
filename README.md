@@ -37,8 +37,8 @@ The company wants to understand:
 - GitHub
 
 ## Dashboard
+<img width="1708" height="607" alt="Dashboard Global Retail Sales Dataset (2015–2022)" src="https://github.com/user-attachments/assets/30c2821e-5ee4-42bb-803e-2d2087386b26" />
 
-<img width="1396" height="805" alt="Dashboard Global Retail Sales Dataset (2015–2022)" src="https://github.com/user-attachments/assets/564c6ae3-cf9b-4a70-88e5-91cb80f145eb" />
 
 
 ## Key Insights
