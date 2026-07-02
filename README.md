@@ -9,7 +9,6 @@ This dashboard presents an analysis of global retail sales performance using key
 The company wants to understand:
 
 - Which categories generate the highest profit
-- The impact of discounts on profit
 - Regional sales performance
 - Customer payment preferences
 
@@ -25,7 +24,7 @@ The company wants to understand:
 
 ##  Process
 
--	Check data for any, missing value, inconsistent formatting, duplicate and Date formats.
+-	Check data for any missing value, inconsistent formatting, duplicate and Date formats.
 -	Made sure data is consistent and clean. 
 -	Created PivotTables and Charts according to the business questions asked.
 -	Merge all Charts into one Dashboard and applied Timeline and Slicers to make the Dashboard Interactive.
